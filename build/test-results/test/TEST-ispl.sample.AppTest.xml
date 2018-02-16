@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ispl.sample.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-02-16T08:47:24" hostname="ICPL10260" time="0.0">
+  <properties/>
+  <testcase name="exampleOfTestNgMaven" classname="ispl.sample.AppTest" time="0.0"/>
+  <system-out><![CDATA[This is TestNG-Maven Example
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
